@@ -1,1 +1,2 @@
 this is a test file of the git repository.
+add the second line to commit again.
